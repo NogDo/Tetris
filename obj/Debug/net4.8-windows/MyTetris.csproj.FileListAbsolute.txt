@@ -1,0 +1,7 @@
+D:\CS\MyTetris\obj\Debug\net4.8-windows\MyTetris.csproj.AssemblyReference.cache
+D:\CS\MyTetris\obj\Debug\net4.8-windows\MyTetris.Form1.resources
+D:\CS\MyTetris\obj\Debug\net4.8-windows\MyTetris.Properties.Resources.resources
+D:\CS\MyTetris\obj\Debug\net4.8-windows\MyTetris.csproj.GenerateResource.cache
+D:\CS\MyTetris\obj\Debug\net4.8-windows\MyTetris.AssemblyInfoInputs.cache
+D:\CS\MyTetris\obj\Debug\net4.8-windows\MyTetris.AssemblyInfo.cs
+D:\CS\MyTetris\obj\Debug\net4.8-windows\MyTetris.csproj.CoreCompileInputs.cache
